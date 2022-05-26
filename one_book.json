@@ -2,75 +2,76 @@
     "kind": "books#volumes",
     "totalItems": 1,
     "items": [
-        {
-            "kind": "books#volume",
-            "id": "vAYhAQAAMAAJ",
-            "etag": "YZv3DX7lIUE",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/vAYhAQAAMAAJ",
-            "volumeInfo": {
-                "title": "Russian Language, Life and Culture",
-                "authors": [
-                    "Stephen L. Webber",
-                    "Tatyana Webber"
-                ],
-                "publisher": "Hodder Education",
-                "publishedDate": "2002",
-                "description": "A comprehensive and accessible guide to Russian society and culture, which should appeal to students of Russian, travellers and anyone who wants to know more about the country, its history and its inhabitants.",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "WISC:89076134097"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 244,
-                "printType": "BOOK",
-                "categories": [
-                    "Russia"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.1.1.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=vAYhAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=vAYhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.co.uk/books?id=vAYhAQAAMAAJ&dq=isbn:9780340790779&hl=&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.co.uk/books?id=vAYhAQAAMAAJ&dq=isbn:9780340790779&hl=&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Russian_Language_Life_and_Culture.html?hl=&id=vAYhAQAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "GB",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "GB",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=vAYhAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "A comprehensive and accessible guide to Russian society and culture, which should appeal to students of Russian, travellers and anyone who wants to know more about the country, its history and its inhabitants."
+      {
+        "kind": "books#volume",
+        "id": "vAYhAQAAMAAJ",
+        "etag": "YZv3DX7lIUE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vAYhAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Russian Language, Life and Culture",
+          "authors": [
+            "Stephen L. Webber",
+            "Tatyana Webber"
+          ],
+          "publisher": "Hodder Education",
+          "publishedDate": "2002",
+          "description": "A comprehensive and accessible guide to Russian society and culture, which should appeal to students of Russian, travellers and anyone who wants to know more about the country, its history and its inhabitants.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "WISC:89076134097"
             }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 244,
+          "printType": "BOOK",
+          "categories": [
+            "Russia"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vAYhAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vAYhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.uk/books?id=vAYhAQAAMAAJ&dq=isbn:9780340790779&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.uk/books?id=vAYhAQAAMAAJ&dq=isbn:9780340790779&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Russian_Language_Life_and_Culture.html?hl=&id=vAYhAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vAYhAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "A comprehensive and accessible guide to Russian society and culture, which should appeal to students of Russian, travellers and anyone who wants to know more about the country, its history and its inhabitants."
         }
+      }
     ]
-}
+  }
+  
