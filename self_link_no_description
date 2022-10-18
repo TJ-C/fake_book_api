@@ -1,0 +1,64 @@
+{
+  "kind": "books#volume",
+  "id": "lmgtQQAACAAJ",
+  "etag": "TQIcqF7NfpE",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/lmgtQQAACAAJ",
+  "volumeInfo": {
+    "title": "Living French",
+    "authors": [
+      "Thomas William Knight"
+    ],
+    "publisher": "Hodder and Stoughton",
+    "publishedDate": "1985",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0340371102"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780340371107"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 293,
+    "printedPageCount": 293,
+    "dimensions": {
+      "height": "18.00 cm",
+      "width": "12.50 cm",
+      "thickness": "1.90 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=lmgtQQAACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lmgtQQAACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lmgtQQAACAAJ"
+  },
+  "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lmgtQQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}
